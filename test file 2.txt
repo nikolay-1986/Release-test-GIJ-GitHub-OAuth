@@ -1,3 +1,4 @@
 new file
 indexing trigger checking
 indexing trigger checking 2
+indexing trigger checking 3
