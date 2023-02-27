@@ -3,3 +3,4 @@ indexing trigger checking
 indexing trigger checking 2
 indexing trigger checking 3
 test for GITCL-3305
+test for GITCL-3305
