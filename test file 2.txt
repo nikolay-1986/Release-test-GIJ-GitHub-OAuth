@@ -4,3 +4,4 @@ indexing trigger checking 2
 indexing trigger checking 3
 test for GITCL-3305
 test for GITCL-3305
+TST-1 tesing of PR filtering for GIT5036
