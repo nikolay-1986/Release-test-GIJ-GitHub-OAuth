@@ -7,3 +7,7 @@ test for GITCL-3305
 TST-1 testing of PR filtering for GIT5036 0
 TST-1 testing of PR filtering for GIT5036 1
 TST-1 testing of PR filtering for GIT5036 2
+
+
+
+TST-1 testing of PR filtering for GIT5036 6
